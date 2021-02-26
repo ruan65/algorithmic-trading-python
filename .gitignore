@@ -1,4 +1,3 @@
-algorithmic-trading/
 .ipynb_checkpoints/
 sp_500_stocks.csv
 **/secrets.py
@@ -6,4 +5,6 @@ sp_500_stocks.csv
 __pycache__
 **/recommended_trades.xlsx
 **/momentum_strategy.xlsx
-venv/
+env/
+*.swp
+*.un~
